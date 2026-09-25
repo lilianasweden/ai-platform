@@ -1,0 +1,5 @@
+DB_POOL_SIZE = 20
+DB_POOL_MAX_OVERFLOW = 30
+DB_POOL_PRE_PING = True
+DB_POOL_TIMEOUT = 30
+# tuned for high concurrency
